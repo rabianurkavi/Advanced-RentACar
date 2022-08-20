@@ -1,4 +1,5 @@
-﻿using Core.Persistence.Repositories;
+﻿using Application.Services.Repositories;
+using Core.Persistence.Repositories;
 using Domain.Entities;
 using Persistence.Contexts;
 using System;
@@ -7,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.Services.Repositories
+namespace Persistence.Repositories
 {
     public class BrandRepository : EfRepositoryBase<Brand, BaseDbContext>, IBrandRepository
     {

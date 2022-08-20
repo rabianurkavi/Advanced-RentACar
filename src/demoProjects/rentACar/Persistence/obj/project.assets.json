@@ -751,6 +751,20 @@
           }
         }
       },
+      "Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Core.Persistence": "1.0.0",
+          "Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Application.dll": {}
+        }
+      },
       "Core.Persistence/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1988,6 +2002,11 @@
         "version.txt"
       ]
     },
+    "Application/1.0.0": {
+      "type": "project",
+      "path": "../Application/Application.csproj",
+      "msbuildProject": "../Application/Application.csproj"
+    },
     "Core.Persistence/1.0.0": {
       "type": "project",
       "path": "../../../corePackages/Core.Persistence/Core.Persistence.csproj",
@@ -2001,6 +2020,8 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Application >= 1.0.0",
+      "Core.Persistence >= 1.0.0",
       "Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.8"
@@ -2042,6 +2063,12 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\Rabia Nur\\Desktop\\nArchitecture-master\\nArchitecture-master\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+              "projectPath": "C:\\Users\\Rabia Nur\\Desktop\\nArchitecture-master\\nArchitecture-master\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
+            },
+            "C:\\Users\\Rabia Nur\\Desktop\\nArchitecture-master\\nArchitecture-master\\src\\demoProjects\\rentACar\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Rabia Nur\\Desktop\\nArchitecture-master\\nArchitecture-master\\src\\demoProjects\\rentACar\\Application\\Application.csproj"
+            },
             "C:\\Users\\Rabia Nur\\Desktop\\nArchitecture-master\\nArchitecture-master\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj": {
               "projectPath": "C:\\Users\\Rabia Nur\\Desktop\\nArchitecture-master\\nArchitecture-master\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj"
             }

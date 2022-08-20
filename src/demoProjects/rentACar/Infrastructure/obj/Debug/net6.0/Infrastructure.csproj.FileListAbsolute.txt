@@ -1,0 +1,12 @@
+C:\Users\Rabia Nur\Desktop\nArchitecture-master\nArchitecture-master\src\demoProjects\rentACar\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Users\Rabia Nur\Desktop\nArchitecture-master\nArchitecture-master\src\demoProjects\rentACar\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\Rabia Nur\Desktop\nArchitecture-master\nArchitecture-master\src\demoProjects\rentACar\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\Rabia Nur\Desktop\nArchitecture-master\nArchitecture-master\src\demoProjects\rentACar\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Rabia Nur\Desktop\nArchitecture-master\nArchitecture-master\src\demoProjects\rentACar\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rabia Nur\Desktop\nArchitecture-master\nArchitecture-master\src\demoProjects\rentACar\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Rabia Nur\Desktop\nArchitecture-master\nArchitecture-master\src\demoProjects\rentACar\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Rabia Nur\Desktop\nArchitecture-master\nArchitecture-master\src\demoProjects\rentACar\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Rabia Nur\Desktop\nArchitecture-master\nArchitecture-master\src\demoProjects\rentACar\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Users\Rabia Nur\Desktop\nArchitecture-master\nArchitecture-master\src\demoProjects\rentACar\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\Users\Rabia Nur\Desktop\nArchitecture-master\nArchitecture-master\src\demoProjects\rentACar\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Users\Rabia Nur\Desktop\nArchitecture-master\nArchitecture-master\src\demoProjects\rentACar\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll

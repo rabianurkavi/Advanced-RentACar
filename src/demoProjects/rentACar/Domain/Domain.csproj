@@ -7,11 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\corePackages\Core.Persistence\Core.Persistence.csproj" />
+    <Folder Include="Enums\" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Enums\" />
+    <ProjectReference Include="..\..\..\corePackages\Core.Persistence\Core.Persistence.csproj" />
   </ItemGroup>
 
 </Project>

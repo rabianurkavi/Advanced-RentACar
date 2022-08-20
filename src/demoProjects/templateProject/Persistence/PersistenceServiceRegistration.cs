@@ -14,6 +14,7 @@ namespace Persistence
 {
     public static class PersistenceServiceRegistration
     {
+        //bütün servisler bütün katmanlar kendi registerationlarını kendi katmanında halletsinler
         public static IServiceCollection AddPersistenceServices(this IServiceCollection services,
                                                                 IConfiguration configuration)
         {
