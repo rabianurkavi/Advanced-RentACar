@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FJ7NtxSbYUdPEDPhtNRucd0gvn8hg6Idqod8W8e5tiqCsPbE31qlSw8dBenO3qiWDUZSMG3xeDyQ2+dX71e7Ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rabia Nur\\Desktop\\nArchitecture-master\\nArchitecture-master\\src\\demoProjects\\templateProject\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rabia Nur\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
